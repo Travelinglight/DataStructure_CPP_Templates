@@ -1,0 +1,15 @@
+[submodule "TreeNode"]
+	path = TreeNode
+	url = git@github.com:Travelinglight/TreeNode.git
+[submodule "Red-Black_Tree"]
+	path = Red-Black_Tree
+	url = git@github.com:Travelinglight/Red-Black_Tree.git
+[submodule "SplayTree"]
+	path = SplayTree
+	url = git@github.com:Travelinglight/SplayTree.git
+[submodule "AVLTree"]
+	path = AVLTree
+	url = git@github.com:Travelinglight/AVLTree.git
+[submodule "Leftist_Heap"]
+	path = Leftist_Heap
+	url = git@github.com:Travelinglight/Leftist_Heap.git
